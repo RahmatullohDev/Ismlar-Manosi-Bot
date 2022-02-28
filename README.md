@@ -1,1 +1,0 @@
-# Ismlar-Manosi-Bot
