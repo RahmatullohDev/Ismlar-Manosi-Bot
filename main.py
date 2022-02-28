@@ -2,7 +2,7 @@ import telebot, requests
 from bs4 import BeautifulSoup
 
 bot = telebot.TeleBot("BOT_TOKEN") 
-tegtext = "👉 @Unknown_26_04"
+tegtext = "By: @Unknown_26_04"
 
 @bot.message_handler(commands=['start','START','Start'])
 def start(message):
